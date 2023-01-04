@@ -20,11 +20,6 @@ int main() {
             break;
     }
 
-//char line[] ="looking for the word cat";
-//int n = substring(line , "cat");
-//    printf("%d\n",n);
-
-
 }
 
 
